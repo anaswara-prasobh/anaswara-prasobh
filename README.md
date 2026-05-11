@@ -17,7 +17,7 @@
 ---
 
 ### GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anaswara-prasobh&show_icons=true&theme=radical)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anaswara-prasobh&theme=radical)
 
 ---
 
