@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hello! 😁
+<h1 align="center">Hi, I'm Anaswara Prasobh</h1>
+<h3 align="center">MCA Student | AI Enthusiast | Web Developer</h3>
 
-<!--
-**anaswara-prasobh/anaswara-prasobh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
+- MCA Student passionate about AI & Web Development  
+- Interested in building real-world projects  
+- Currently learning: Machine Learning, Django, Flask  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- Programming: Python, Java, C++
+- Web: HTML, CSS, JavaScript
+- Backend: Django, Flask, Bottle
+- Database: MySQL
+---
+
+### GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&theme=radical)
+
+---
+
+### Connect with Me
+- LinkedIn: https://linkedin.com/in/yourprofile  
+---
+
+“Code. Learn. Build. Repeat.”
