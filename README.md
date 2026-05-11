@@ -17,7 +17,7 @@
 ---
 
 ### GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anaswara-prasobh&show_icons=true&theme=radical)
 
 ---
 
