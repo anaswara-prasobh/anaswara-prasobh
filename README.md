@@ -1,6 +1,5 @@
-## Hello! 😁
-<h1 align="center">Hi, I'm Anaswara Prasobh</h1>
-<h3 align="center">MCA Student | AI Enthusiast | Web Developer</h3>
+<h2>Hi, I'm Anaswara Prasobh</h2>
+<h3>MCA Student | AI Enthusiast | Web Developer</h3>
 
 ---
 
